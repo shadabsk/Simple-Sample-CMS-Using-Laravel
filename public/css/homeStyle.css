@@ -1,0 +1,28 @@
+.topnav a{
+	text-decoration: none;
+	color: #2d1558;
+	padding: 10px 30px;
+	font-weight: 500;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+#carousButton{
+	margin-left: 45em;
+}
+@media only screen and (max-width: 600px) {
+    
+	#carousButton{
+		margin-left: 10em;
+        margin-top: 3em;
+	}
+    
+    .innercontpost p{
+        padding-right: 20px;
+    }
+
+    .innercontpost div{
+        padding-left: 82px !important;
+    }
+  
+}

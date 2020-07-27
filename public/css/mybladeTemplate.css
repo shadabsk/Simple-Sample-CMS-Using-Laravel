@@ -1,0 +1,117 @@
+
+@media only screen and (max-width: 1070px){
+    .innercont {
+        float: left;
+        margin-top: 12px;
+        margin-left: 379px;
+    }
+
+    .navmenu .logo .editDiv .editAdmin{
+        margin-top: 4em;
+    }
+
+    .navmenu .logo .editDiv .editAdmin a{
+        padding: 9px 4px !important;
+    }
+
+    .navmenu .logo .editDiv .delBut {
+        padding-left: 10.7em;
+        margin-top: -3.9em;
+    }
+
+    .navmenu .logo .editDiv button{
+        padding: 6px 9px !important;
+    }
+
+    .topnav .editDiv .editAdmin{
+        margin-right: 3em
+    }
+
+    .topnav div a.editnav{
+        width: 64px;
+        margin-left: 50%;
+        margin-top: -19px;
+        text-align: center;
+    }
+
+    .topnav div a.editnavdel{
+        width: 64px;
+        margin-left: 75%;
+        margin-top: -19px;
+        text-align: center;
+    }
+
+    .topnav div a.active{
+        margin-top: 10px;
+    }
+
+    .bladingtemp{
+        padding: 5px 4px !important;
+        text-align: center;
+        margin-left: 4em !important
+    }
+
+    #carousButton{
+        
+        margin-top: 9em !important;
+    }
+
+    .bladeCreate{
+        margin-top: 8em;
+        padding-left: 2.6em;
+    }
+
+    .bladeModify{
+        margin-top: 0;
+    }
+
+    .wrappingCont{
+        margin-right: 17em;
+    }
+
+    .innercontpost{
+        padding-top: 6em;
+    }
+
+    .innercontpost h3,.innercontpost p{
+        padding-left: 50px;
+        padding-right: 60px;
+    }
+
+    .wrappingCont{
+        width: 14em;
+    }
+
+    .wrappingCont div{
+        width: 16em;
+    }
+
+    .addcont{
+        padding-left: 2.6em;
+        float: none;
+    }
+
+    .wrappingCont .delBut{
+        margin-bottom: 43px !important;
+    }
+    
+    .innercontpost .wrappingCont{
+        margin-right: 0;
+        float: none;
+        padding-left: 30%;
+    }
+}
+
+
+@media only screen and (min-width: 1071px) and (max-width: 1280px){
+    
+    .maincont .innercont{    
+        margin-top: -29%;
+    }
+}
+
+@media only screen and (min-width: 1281px){
+    .maincont .innercont{
+        margin-top: -31%;
+    }
+}

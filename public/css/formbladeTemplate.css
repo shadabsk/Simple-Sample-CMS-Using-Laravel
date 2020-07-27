@@ -1,0 +1,32 @@
+.contact{
+    border: none;
+}
+
+.actionButton{
+    padding-top: 2em;
+}
+
+.containerDiv{
+    padding-left: 12%;
+    padding-top: 3em;
+    width: 85%;
+}
+
+input[type='text']{
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+
+.indivElem{
+    margin-top: 2em;
+}
+
+.formSlide{
+    margin-top: 0em;
+}
+
+.formPost{
+    margin-top: 1em;
+}
