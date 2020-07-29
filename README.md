@@ -1,10 +1,11 @@
 # Project Title
-A simple sample CMS application Using laravel.
+A simple sample CMS application Using Laravel.
 
 ## Getting Started
 All the source code related to the Controllers that mainly handles with backend logic is present inside app/Http/Controllers directory. It requires php 7.x, HTML5 Browser, Composer, Node.js and Laravel framework.
 * Open the root directory of the project and using cmd/terminal run the command "php artisan migrate:fresh". This will flush all the data and create every schema from fresh configured inside sqlite3 internally.
-* For laravel 5.x or earlier use the following command, "php artisan make:auth". For laravel 6 and higher use the following set of commands, "composer require laravel/ui" followed by "npm install", "npm run dev" and lastly "composer require intervention/image".
+* For laravel 5.x or earlier use the following command, "php artisan make:auth". For laravel 6 and higher use the following set of commands, "composer require laravel/ui" followed by "npm install" and lastly "npm run dev".
+* Using cmd/terminal run the command "composer require intervention/image" that will install the image-intervention package that handles the image resizing. Inside public directory a storage link has to be created so first delete this directory if it exist "public/storage/" and run the command "php artisan storage:link" which basically establishes a link essential for image uploading and storing.
 * Using cmd/terminal run the command "php artisan serve". Open the browser following the url as "http://localhost:8000/".
 * If you want to change the port you can do by the running the server with the following command "php artisan serve --port <any port number of your choice eg: 8090>" and follow the url in the browser as "http://localhost:8090/".	
 
@@ -13,8 +14,8 @@ All the source code related to the Controllers that mainly handles with backend 
 
 * Php 7.x
 * Node.js lts latest version (v14.4.0 used in this case)
-* composer
-* laravel framework
+* Composer
+* Laravel framework
 * image-intervention package
 * HTML5 compatible browser
 
@@ -46,7 +47,7 @@ Installing Composer
 step 4
 
 ```
-Installing Laravel via composer via the following command
+Installing Laravel via composer with the following command
 ```
 ```
 composer global require laravel/installer
@@ -64,6 +65,15 @@ Installing chrome browser (HTML5 compatible) can be downloaded from below link
 
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building & debugging modern web & cloud apps. 
+
+
+## Demonstrations
+
+* Take a look at the working project demonstration. Click on the image to view the complete video
+
+
+[![A simple sample CMS application Using Laravel
+](https://i.ytimg.com/vi/WglHeNO-Qpc/hqdefault.jpg)](https://youtu.be/WglHeNO-Qpc)
 
 
 ## Authors
