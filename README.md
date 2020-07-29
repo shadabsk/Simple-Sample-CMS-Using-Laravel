@@ -69,7 +69,7 @@ Installing chrome browser (HTML5 compatible) can be downloaded from below link
 
 ## Demonstrations
 
-* Take a look at the working project demonstration. Click on the image to view the complete video
+* Take a look at the working project demonstration. Press Ctrl+Click on the image to view the complete video on a new tab.
 
 
 [![A simple sample CMS application Using Laravel
