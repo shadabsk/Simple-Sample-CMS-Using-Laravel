@@ -1,4 +1,6 @@
 # Project Title
+Simple Sample CMS Using Laravel
+
 This project lets a user sign in and create a sample homepage with certain set of nav menus, carousel sliders, trademark, and page content post ensuring all the crud operation for the signed in user which can be accessed publicly via the enrolled user's username and is completely responsive.
 
 ## Getting Started
